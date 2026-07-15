@@ -1,0 +1,12 @@
+https://docs.langchain.com/oss/python/langchain/overview
+https://docs.langchain.com/oss/python/langchain/install
+https://docs.langchain.com/oss/python/langchain/quickstart
+https://docs.langchain.com/oss/python/langchain/models
+https://docs.langchain.com/oss/python/langchain/retrieval
+https://docs.langchain.com/oss/python/langchain/rag
+https://docs.langchain.com/oss/python/langchain/knowledge-base
+https://docs.langchain.com/oss/python/langchain/agents
+https://docs.langchain.com/oss/python/langgraph/overview
+https://docs.langchain.com/oss/python/langgraph/agentic-rag
+https://docs.langchain.com/oss/python/integrations/splitters
+https://docs.langchain.com/oss/python/integrations/splitters/recursive_text_splitter
