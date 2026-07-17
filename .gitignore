@@ -12,3 +12,4 @@ wheels/
 
 # vector database
 chroma_db/
+.ipynb_checkpoints/
