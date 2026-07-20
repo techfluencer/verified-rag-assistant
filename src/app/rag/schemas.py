@@ -21,3 +21,5 @@ class AskResponse(BaseModel):
         default_factory=list,
         description="URLs of the pages retrieved to ground the answer (empty if unknown).",
     )
+
+    
