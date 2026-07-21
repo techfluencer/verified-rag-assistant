@@ -1,5 +1,5 @@
 """
-conftest.py is pytest's special file for shared fixtures — pytest auto-discovers it, so any test can just name client as an argument and get it (no import needed). That's the reusable-fixtures pattern.
+conftest.py is pytest's special file for shared fixtures — pytest auto-discovers it, so any test can just name 'client' as an argument and get it (no import needed). That's the reusable-fixtures pattern.
 """
 
 import pytest
